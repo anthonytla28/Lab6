@@ -2,13 +2,12 @@
 
 By: Anthony Tlatenchi
 
-This program is designed to read in multiple csv files from Spotify charts the ones I chose are from the viral 50 chart from the weeks of September 3rd and October 8th of this year. Using the csv files the program takes on the task of receiving all the songs that appear and creates an array of the song titles. With the array of song titles the program then displays the songs to the user asking him to choose a start and end to his playlist based on position creating a subset of all the songs. Then with the start and end position number the program implements a binary search tree using the song title as a key to create a playlist that is then printed to an output file. In the output example of this program the selected positions were 20 and 65 creating a 45 song playlist.
+This program is designed to be used as a grading calculator speccifically created based on the outline of my data structure class and it's syllabus. The program uses a java Graphical User Interface or GUI for short. When you run the program the GUI window will open up and inside you will be able to enter your grade for each category using sliders after entering the grade you then press the sum button and it will return the total and your overall grade for the class. In order to see your letter grade you will have to compare the number grade to the syllabus of the class.  
 
 
 **Installation**
 
-If you wish to compile my program I would recommend using an IDE with Java 8 because that is what I used to create the program and from there you can simply paste the code into the IDE. To get a csv file you can go to Spotify Charts or use the one provided in the Data folder.
-
+If you wish to compile my program I would recommend using an IDE with Java 8 because that is what I used to create the program and from there you can simply paste the code into the IDE. 
 **Dependencies**
 
 * Java 8
@@ -16,3 +15,4 @@ If you wish to compile my program I would recommend using an IDE with Java 8 bec
 **Folder Structure**
 
 * Main Code in src folder
+* Syllabus in class folder 
