@@ -16,6 +16,3 @@ If you wish to compile my program I would recommend using an IDE with Java 8 bec
 **Folder Structure**
 
 * Main Code in src folder
-* Input text file in Data folder
-* Output in output folder
-
